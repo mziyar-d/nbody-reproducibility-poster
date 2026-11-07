@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: software
+title: "Same Code, Same Input, Different Answer: code and analysis for a chaotic N-body reproducibility test"
+abstract: "A small open N-body experiment (500 equal-mass stars, Plummer sphere) showing that trajectories diverge exponentially under rounding-level changes while the cluster's overall statistics stay within natural variability, so open code alone does not make a chaotic simulation reproducible."
+authors:
+  - family-names: Arkannia
+    given-names: Mohammad Hosein
+    affiliation: "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology"
+  - family-names: Dalili
+    given-names: Maziyar
+    affiliation: "Department of Physics, Institute for Advanced Studies in Basic Sciences (IASBS)"
+repository-code: "https://github.com/mziyar-d/nbody-reproducibility-poster"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-08"
+keywords:
+  - reproducibility
+  - open science
+  - N-body simulation
+  - chaos
+  - computational astrophysics
