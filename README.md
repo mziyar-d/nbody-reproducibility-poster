@@ -75,7 +75,7 @@ Exact numbers on another machine or library version will differ in detail. That 
 
 ## Environment of the published run
 
-* Google Colab, 2 CPU cores, Python **[3.13.18]**, NumPy **[2.4.6]**, Matplotlib **[3.10.0]**
+* Google Colab, 2 CPU cores, Python **3.13.18**, NumPy **2.4.6**, Matplotlib **3.10.0**
 * About 7 minutes per run (about 3 minutes for `matmul`), about 45 minutes for all 15 with `JOBS=2`.
 
 ## Reproducibility card (this repository)
