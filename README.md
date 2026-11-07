@@ -98,7 +98,7 @@ AI tools assisted with drafting code, designing the experiment and editing text.
 
 ## Cite
 
-See `CITATION.cff` (GitHub shows a "Cite this repository" button).
+See `CITATION.cff` 
 
 ## Licence
 
