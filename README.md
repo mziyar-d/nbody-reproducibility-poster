@@ -106,5 +106,6 @@ MIT (see `LICENSE`).
 
 ## Contact
 
-**mziyarda@gmail.com** **maziyar.dalili@iasbs.ac.ir**
+**mziyarda@gmail.com**
+**maziyar.dalili@iasbs.ac.ir**
 
